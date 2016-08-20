@@ -1,0 +1,38 @@
+{
+	"id":1,
+	"userName":"yqwu",
+	"mobile":19987654567,
+	"createdAt":"2015-08-29 00:00:00",
+	"joinedActivities":[
+		{
+			"id":4,
+			"title":"活动4",
+			"startTime":"2015-09-11 10:00:00",
+			"endTime":null,
+			"content":"活动4，测试活动，可删除",
+			"groupId":1,
+			"createdBy":"by yqwu",
+			"createdAt":null
+		},
+		{
+			"id":3,
+			"title":"庆祝抗日战争胜利70周年阅兵观礼",
+			"startTime":"2015-09-11 09:00:00",
+			"endTime":"2015-09-12 00:00:00",
+			"content":"70周年大阅兵，气势恢宏，庄严肃穆，荡气回肠。不去一定会后悔的",
+			"groupId":1,
+			"createdBy":"发布人甲",
+			"createdAt":null
+		},
+		{
+			"id":2,
+			"title":"Second test activity for test",
+			"startTime":"2015-09-11 09:00:00",
+			"endTime":"2015-09-12 00:00:00",
+			"content":"测试第二个活动",
+			"groupId":1,
+			"createdBy":null,
+			"createdAt":null
+		}
+	]
+}
